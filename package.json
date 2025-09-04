@@ -1,0 +1,23 @@
+{
+  "name": "parcelbase",
+  "version": "1.0.0",
+  "scripts": {
+    "start": "parcel base-js/index.html ",
+  "build": "parcel build base-js/index.html",
+  "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nicoleUg/base-js.git"
+  },
+  "author": "\"Nicole Ugarte\"",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/nicoleUg/base-js/issues"
+  },
+  "homepage": "https://github.com/nicoleUg/base-js#readme",
+  "description": "",
+  "devDependencies": {
+    "parcel-bundler": "^1.12.5"
+  }
+}
